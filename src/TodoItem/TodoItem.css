@@ -1,0 +1,33 @@
+.TodoItem-container {
+	width: 100%;
+	display: grid;
+	grid-template-columns: 1fr min-content;
+	border-radius: 5px;
+	margin: 5px 0;
+	font-size: 28px !important ;
+}
+.todo-icon-trash {
+	cursor: pointer;
+	font-size: 28px !important;
+}
+.icon-check {
+	color: rgb(42, 190, 54) !important;
+	font-size: 28px !important;
+	cursor: pointer;
+}
+.icon-check-false {
+	color: rgb(158, 35, 35) !important;
+}
+.icon-check :hover {
+	color: rgba(223, 39, 39, 0.822);
+	cursor: pointer;
+}
+
+.css-10botns-MuiInputBase-input-MuiFilledInput-input {
+	font-size: 18px !important ;
+	font-weight: bold;
+}
+.icons {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}

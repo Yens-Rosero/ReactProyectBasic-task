@@ -1,0 +1,16 @@
+.modal-title {
+	padding: 10px 0px;
+	font-size: 25px;
+}
+.modal-actions {
+	padding: 10px 0px;
+}
+.modal-body {
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	border-radius: 15px;
+	margin: 0px 5px 0px 5px;
+}
+.btn-add {
+	border-radius: 8px !important;
+}
