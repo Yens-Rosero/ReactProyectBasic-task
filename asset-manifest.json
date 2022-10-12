@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactProyectBasic-task/static/css/main.65e86178.css",
+    "main.js": "/ReactProyectBasic-task/static/js/main.e9db9b49.js",
+    "static/media/picture.jpg": "/ReactProyectBasic-task/static/media/picture.2c3b0b4bff5a932f47a1.jpg",
+    "index.html": "/ReactProyectBasic-task/index.html",
+    "main.65e86178.css.map": "/ReactProyectBasic-task/static/css/main.65e86178.css.map",
+    "main.e9db9b49.js.map": "/ReactProyectBasic-task/static/js/main.e9db9b49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e86178.css",
+    "static/js/main.e9db9b49.js"
+  ]
+}
